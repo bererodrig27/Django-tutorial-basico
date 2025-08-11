@@ -1,6 +1,6 @@
 # Django Tutorial Básico - Proyecto mysite
 
-Este repositorio contiene el código del **Tutorial Básico de Django 5.2** según la documentación oficial:  
+Repositorio **Tutorial Básico de Django 5.2** según la documentación oficial:  
 https://docs.djangoproject.com/en/5.2/
 
 ## Estructura del proyecto
